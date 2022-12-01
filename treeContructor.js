@@ -1,4 +1,4 @@
-/**The function below will create a new array of all the integers(nodes) and counts the number of
+/**The function below will create a new array of all the integers(nodes) and count the number of
  * times an integer appears(edges). If any integer appears greater than or equal to four times, it will return false
  * if not, it will return true. This will check if the given array can form a binary tree, because no node should have
  * more than three edges in a binary tree.
